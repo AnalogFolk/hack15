@@ -59,5 +59,3 @@ Some handy links to get you up and running:
 | Phaser | http://phaser.io/ | JavaScript game engine. |
 | Johnny Five | https://github.com/rwaldron/johnny-five | JavaScript Robotics and IoT programming framework |
 | Cylon JS | http://cylonjs.com/ | Cylon.js is a JavaScript framework for robotics, physical computing, and the Internet of Things |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right |    $1 |
