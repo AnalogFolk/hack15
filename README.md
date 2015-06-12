@@ -4,16 +4,25 @@ AnalogFolk Hack 2015
 
 AnalogFolk is to host its annual Hack Festival on Saturday 4th July 2015.
 
-AnalogFolk is hosting its annual Hack Festival on Saturday 4th July 2015 (09:30 - 20:45). Join the best technical and creative minds to hack the latest tech. Prizes, food and drink and more.
+Taking place at the agency’s London offices in Clerkenwell, the Hack event is open to both individuals and teams. The Hack brief will be revealed in the days running up to the event.
 
->Register to attend: http://anfo.lk/hackmeetup
+Throughout the festival we’ll have the best technical and creative minds providing guidance on a variety of technologies and movements.
+We'll have some great pieces of technology available to play with. Including Apple Watch, Leap Motion, Oculus Rift, Kinect, and Quadcopter Drones.
 
->More details: http://anfo.lk/hack
+The doors open at 9.30am and after a full day of hacking and making things judging will take place at 8.45pm, followed by an awards presentation and drinks.
+
+Visit the Hack Festival website [anfo.lk/hack](http://anfo.lk/hack) for further details, where you can also register your place through MeetUp [anfo.lk/hackmeetup](http://anfo.lk/hackmeetup).
+
 
 ----------
 
-Resources
+Getting Started
+-----------
+
+
+Useful Resources
 -------------
+Some handy links to get you up and running:
 
 | Name   |      URL      |  Description |
 |:----------|:-------------|:------|
