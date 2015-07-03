@@ -2,23 +2,49 @@ AnalogFolk Hack 2015
 ===================
 ![AnalogFolk Hack 2015](https://pbs.twimg.com/media/CHSuVOCUYAATrln.jpg)
 
-AnalogFolk is to host its annual Hack Festival on Saturday 4th July 2015.
+----------
+#How can we use digital to make the analog experience of transport better?
 
-Taking place at the agency’s London offices in Clerkenwell, the Hack event is open to both individuals and teams. The Hack brief will be revealed in the days running up to the event.
+----------
 
-Throughout the festival we’ll have the best technical and creative minds providing guidance on a variety of technologies and movements.
-We'll have some great pieces of technology available to play with. Including Apple Watch, Leap Motion, Oculus Rift, Kinect, and Quadcopter Drones.
+##Rules 
+**The rules are simple:**
 
-The doors open at 9.30am and after a full day of hacking and making things judging will take place at 8.45pm, followed by an awards presentation and drinks.
+1. Maximum of 5 people in a team (minimum of 2) 
+2. All code must be checked into a team repo inside AnalogFolk's open source GitHub account throughout the day 
+3. Hacking must stop at **20:00 on 04/07/15** for presentations and judging
 
-Visit the Hack Festival website [anfo.lk/hack](http://anfo.lk/hack) for further details, where you can also register your place through MeetUp [anfo.lk/hackmeetup](http://anfo.lk/hackmeetup).
+*The teams will be judged against their effectiveness to answer the brief, technical innovation and speed to prototype.*
 
+----------
+
+##Schedule 
+
+* **09:00** - Doors open & breakfast is served
+* **09:30** - Briefing starts & teams are formed
+* **10:00** - Hacking starts!
+* **13:00** - Lunch is served
+* **20:00** - Hacking stops
+* **21:00** - Winners are announced
 
 ----------
 
 Getting Started
 -----------
 
+APIs
+-------------
+How about using some of the below API's in your hack?:
+
+| Name   |      URL      |  Description |
+|:----------|:-------------|:------|
+| W3W |  http://developer.what3words.com/ | What3Words - Translate a long and lat to and from 3 memorable words |
+| TFL | https://www.tfl.gov.uk/info-for/open-data-users/ | TFL - Open data - widgets and data feeds |
+| Twilio | https://www.twilio.com/ | API that developers can interact with to build intelligent and complex communications systems. |
+| PubnNub | https://www.pubnub.com | PubNub is a secure global Data Stream Network (DSN) and easy to use API that enables our customers to connect, scale, and manage realtime applications and IoT devices. |
+| Google Maps | https://developers.google.com/maps/ | Create engaging web and mobile apps with Google’s mapping platform. |
+
+-----------
 
 Useful Resources
 -------------
@@ -49,9 +75,6 @@ Some handy links to get you up and running:
 | Firebase | https://www.firebase.com/ | Firebase can power your app's backend, including data storage, user authentication, static hosting, and more. Focus on creating extraordinary user experiences. We'll take care of the rest. |
 | Flux | https://github.com/christianalfoni/flux-react-boilerplate | Flux is the application architecture that Facebook uses for building client-side web applications. It complements React's composable view components by utilizing a unidirectional data flow. It's more of a pattern rather than a formal framework, and you can start using Flux immediately without a lot of new code. |
 | Backbone-Require-Boilerplate | https://github.com/BoilerplateMVC/Backbone-Require-Boilerplate | A Rad Backbone.js and Require.js Boilerplate Project. |
-| Twilio | https://www.twilio.com/ | We take care of the messy telecom hardware and expose a globally available cloud API that developers can interact with to build intelligent and complex communications systems. As your app's usage scales up or down, Twilio automatically scales with you. You only pay for what you use - no contracts, no shenanigans. |
-| Pubnub | https://www.pubnub.com/ | PubNub is a secure global Data Stream Network (DSN) and easy to use API that enables our customers to connect, scale, and manage realtime applications and IoT devices. |
-| Pusher | https://pusher.com/ | Pusher is a hosted API for quickly, easily and securely adding scalable realtime functionality to web and mobile apps. |
 | Babel | https://babeljs.io/ | Use next generation JavaScript, today. By default, Babel ships with a set of ES2015 syntax transformers. These allow you to use new syntax, right now without waiting for browser support. |
 | Browserify | http://browserify.org/ | Browserify lets you require('modules') in the browser by bundling up all of your dependencies. |
 | Webpack | http://webpack.github.io/ | Webpack is a module bundler, webpack takes modules with dependencies and generates static assets representing those modules. |
@@ -59,3 +82,14 @@ Some handy links to get you up and running:
 | Phaser | http://phaser.io/ | JavaScript game engine. |
 | Johnny Five | https://github.com/rwaldron/johnny-five | JavaScript Robotics and IoT programming framework |
 | Cylon JS | http://cylonjs.com/ | Cylon.js is a JavaScript framework for robotics, physical computing, and the Internet of Things |
+
+--------
+
+Taking place at the agency’s London offices in Clerkenwell, the Hack event is open to both individuals and teams. The Hack brief will be revealed in the days running up to the event.
+
+Throughout the festival we’ll have the best technical and creative minds providing guidance on a variety of technologies and movements.
+We'll have some great pieces of technology available to play with. Including Apple Watch, Leap Motion, Oculus Rift, Kinect, and Quadcopter Drones.
+
+The doors open at 9.30am and after a full day of hacking and making things judging will take place at 8.45pm, followed by an awards presentation and drinks.
+
+Visit the Hack Festival website [anfo.lk/hack](http://anfo.lk/hack) for further details, where you can also register your place through MeetUp [anfo.lk/hackmeetup](http://anfo.lk/hackmeetup).
