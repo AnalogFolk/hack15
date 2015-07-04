@@ -85,6 +85,23 @@ Some handy links to get you up and running:
 
 --------
 
+Inspiration
+-------------
+
+###Travic
+This tracker provides movement visualization of transit data published by transit agencies and operators from all over the world. The movements are mostly based on static schedule data.
+[http://tracker.geops.ch/?z=15&s=1&x=-8455.8125&y=6713926.8971&l=transport](http://tracker.geops.ch/?z=15&s=1&x=-8455.8125&y=6713926.8971&l=transport)
+
+###WebCAT
+WebCAT is a toolkit to help the work of professional planners in London. WebCAT stands for Web-based Connectivity Assessment Toolkit. The toolkit currently contains two main tools: PTAL and Time Mapping (TIM).
+[https://tfl.gov.uk/info-for/urban-planning-and-construction/planning-with-webcat/webcat](https://tfl.gov.uk/info-for/urban-planning-and-construction/planning-with-webcat/webcat)
+
+###Brunoimbrizi Experiment
+Live 3D map of the London Underground.
+[http://brunoimbrizi.com/experiments/#/07](http://brunoimbrizi.com/experiments/#/07)
+
+-------------
+
 Taking place at the agency’s London offices in Clerkenwell, the Hack event is open to both individuals and teams. The Hack brief will be revealed in the days running up to the event.
 
 Throughout the festival we’ll have the best technical and creative minds providing guidance on a variety of technologies and movements.
