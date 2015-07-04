@@ -13,10 +13,10 @@ AnalogFolk Hack 2015
 * Feel free to use, collaborate and build upon existing products (such as Citymapper, TFL Journey Planner…)
 
 
-* Faster: How can you get from A to B in the quickest, most efficient way?
-* Cheaper: How can you travel in the most cost effective way without compromising efficiency?
-* Greener: How can you create less waste, emissions and pollution and help towards a cleaner journey?
-* Safer: How can you improve the safety of travelling around London?
+1. Faster: How can you get from A to B in the quickest, most efficient way?
+2. Cheaper: How can you travel in the most cost effective way without compromising efficiency?
+3. Greener: How can you create less waste, emissions and pollution and help towards a cleaner journey?
+4. Safer: How can you improve the safety of travelling around London?
 
 ----------
 
