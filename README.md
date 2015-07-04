@@ -5,6 +5,21 @@ AnalogFolk Hack 2015
 ----------
 #How can we use digital to make the analog experience of transport better?
 
+##FOCUS ON TRAVELLING AROUND LONDON
+
+* We're talking about any means of getting around London – this can focus on one means of transport or a combination of many
+* You are not limited to existing transport companies (London Underground, Santander Bikes) – walking, cycling, scooters, cabs etc. are also ways to get around
+* Think you can improve current services?
+* Feel free to use, collaborate and build upon existing products (such as Citymapper, TFL Journey Planner…)
+
+
+##HOW CAN WE USE DIGITAL TO MAKE THE ANALOG EXPERIENCE OF TRANSPORT IN LONDON BETTER?
+
+* Faster: How can you get from A to B in the quickest, most efficient way?
+* Cheaper: How can you travel in the most cost effective way without compromising efficiency?
+* Greener: How can you create less waste, emissions and pollution and help towards a cleaner journey?
+* Safer: How can you improve the safety of travelling around London?
+
 ----------
 
 ##Rules 
@@ -15,6 +30,7 @@ AnalogFolk Hack 2015
 3. Hacking must stop at **20:00 on 04/07/15** for presentations and judging
 
 *The teams will be judged against their effectiveness to answer the brief, technical innovation and speed to prototype.*
+
 
 ----------
 
