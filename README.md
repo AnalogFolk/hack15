@@ -8,9 +8,9 @@ AnalogFolk Hack 2015
 ##FOCUS ON TRAVELLING AROUND LONDON
 
 * We're talking about any means of getting around London – this can focus on one means of transport or a combination of many
-* You are not limited to existing transport companies (London Underground, Santander Bikes) – walking, cycling, scooters, cabs etc. are also ways to get around
+* You are not limited to existing transport companies (London Underground, Santander Bikes) - walking, cycling, scooters, cabs etc. are also ways to get around
 * Think you can improve current services?
-* Feel free to use, collaborate and build upon existing products (such as Citymapper, TFL Journey Planner…)
+* Feel free to use, collaborate and build upon existing products (such as Citymapper, TFL Journey Planner...)
 
 
 1. Faster: How can you get from A to B in the quickest, most efficient way?
@@ -116,11 +116,11 @@ Live 3D map of the London Underground.
 
 -------------
 
-Taking place at the agency’s London offices in Clerkenwell, the Hack event is open to both individuals and teams. The Hack brief will be revealed in the days running up to the event.
+Taking place at the agency's London offices in Clerkenwell, the Hack event is open to both individuals and teams. The Hack brief will be revealed in the days running up to the event.
 
-Throughout the festival we’ll have the best technical and creative minds providing guidance on a variety of technologies and movements.
+Throughout the festival we'll have the best technical and creative minds providing guidance on a variety of technologies and movements.
 We'll have some great pieces of technology available to play with. Including Apple Watch, Leap Motion, Oculus Rift, Kinect, and Quadcopter Drones.
 
-The doors open at 9.30am and after a full day of hacking and making things judging will take place at 8.45pm, followed by an awards presentation and drinks.
+The doors open at 09:00 and after a full day of hacking and making things judging will take place at 20:45, followed by an awards presentation and drinks.
 
 Visit the Hack Festival website [anfo.lk/hack](http://anfo.lk/hack) for further details, where you can also register your place through MeetUp [anfo.lk/hackmeetup](http://anfo.lk/hackmeetup).
