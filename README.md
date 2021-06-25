@@ -3,9 +3,9 @@ AnalogFolk Hack 2015
 ![AnalogFolk Hack 2015](https://pbs.twimg.com/media/CHSuVOCUYAATrln.jpg)
 
 ----------
-#How can we use digital to make the analog experience of transport better?
+# How can we use digital to make the analog experience of transport better?
 
-##FOCUS ON TRAVELLING AROUND LONDON
+## FOCUS ON TRAVELLING AROUND LONDON
 
 * We're talking about any means of getting around London – this can focus on one means of transport or a combination of many
 * You are not limited to existing transport companies (London Underground, Santander Bikes) - walking, cycling, scooters, cabs etc. are also ways to get around
@@ -20,7 +20,7 @@ AnalogFolk Hack 2015
 
 ----------
 
-##Rules 
+## Rules 
 **The rules are simple:**
 
 1. Maximum of 5 people in a team (minimum of 2) 
@@ -32,7 +32,7 @@ AnalogFolk Hack 2015
 
 ----------
 
-##Schedule 
+## Schedule 
 
 * **09:00** - Doors open & breakfast is served
 * **09:30** - Briefing starts & teams are formed
@@ -102,15 +102,15 @@ Some handy links to get you up and running:
 Inspiration
 -------------
 
-###Travic
+### Travic
 This tracker provides movement visualization of transit data published by transit agencies and operators from all over the world. The movements are mostly based on static schedule data.
 [http://tracker.geops.ch/?z=15&s=1&x=-8455.8125&y=6713926.8971&l=transport](http://tracker.geops.ch/?z=15&s=1&x=-8455.8125&y=6713926.8971&l=transport)
 
-###WebCAT
+### WebCAT
 WebCAT is a toolkit to help the work of professional planners in London. WebCAT stands for Web-based Connectivity Assessment Toolkit. The toolkit currently contains two main tools: PTAL and Time Mapping (TIM).
 [https://tfl.gov.uk/info-for/urban-planning-and-construction/planning-with-webcat/webcat](https://tfl.gov.uk/info-for/urban-planning-and-construction/planning-with-webcat/webcat)
 
-###Brunoimbrizi Experiment
+### Brunoimbrizi Experiment
 Live 3D map of the London Underground.
 [http://brunoimbrizi.com/experiments/#/07](http://brunoimbrizi.com/experiments/#/07)
 
